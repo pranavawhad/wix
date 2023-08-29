@@ -1,1 +1,1 @@
-console.log("shopifyrun")
+console.log("run")
